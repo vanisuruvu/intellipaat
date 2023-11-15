@@ -1,0 +1,44 @@
+OrderDate,Region,Rep,Item,Units,Unit_Cost,Total,DataVersion
+07-01-2021,East,Jones,Pencil,67,1.99000001,189.0500031,Version 1
+24-01-2021,Central,Kivell,Binder,32,19.98999977,999.5,Version 1
+10-02-2021,Central,Jardine,Pencil,2,4.989999771,179.6399994,Version 1
+27-02-2021,Central,Gill,Pen,18,19.98999977,539.7299805,Version 1
+16-03-2021,West,Sorvino,Pencil,10,2.99000001,167.4400024,Version 1
+02-04-2021,East,Jones,Binder,7,4.989999771,299.3999939,Version 1
+19-04-2021,Central,Andrews,Pencil,39,1.99000001,149.25,Version 1
+06-05-2021,Central,Jardine,Pencil,1,4.989999771,449.1000061,Version 1
+23-05-2021,West,Thompson,Pencil,3,1.99000001,63.68000031,Version 1
+09-06-2021,East,Jones,Binder,57,8.989999771,539.4000244,Version 1
+26-06-2021,Central,Morgan,Pencil,31,4.989999771,449.1000061,Version 1
+13-07-2021,East,Howard,Binder,16,1.99000001,57.70999908,Version 1
+30-07-2021,East,Parent,Binder,47,19.98999977,1619.189941,Version 1
+16-08-2021,East,Jones,Pencil,9,4.989999771,174.6499939,Version 1
+02-09-2021,Central,Smith,Desk,1,125,250,Version 1
+19-09-2021,East,Jones,Pen Set,0,15.98999977,255.8399963,Version 1
+06-10-2021,Central,Morgan,Binder,11,8.989999771,251.7200012,Version 1
+23-10-2021,East,Jones,Pen,63,8.989999771,575.3599854,Version 1
+09-11-2021,East,Parent,Pen,13,19.98999977,299.8500061,Version 1
+26-11-2021,Central,Kivell,Pen Set,82,4.989999771,479.0400085,Version 1
+13-12-2021,Central,Smith,Pencil,37,1.289999962,86.43000031,Version 1
+30-12-2021,East,Parent,Pen Set,35,15.98999977,1183.26001,Version 1
+16-01-2022,Central,Gill,Binder,0,8.989999771,413.5400085,Version 1
+02-02-2022,Central,Smith,Binder,64,15,1305,Version 1
+19-02-2022,East,Jones,Binder,2,4.989999771,19.95999908,Version 1
+08-03-2022,West,Sorvino,Binder,5,19.98999977,139.9299927,Version 1
+25-03-2022,Central,Jardine,Pen Set,44,4.989999771,249.5,Version 1
+11-04-2022,Central,Andrews,Pencil,44,1.99000001,131.3399963,Version 1
+28-04-2022,East,Howard,Pen,49,4.989999771,479.0400085,Version 1
+15-05-2022,Central,Gill,Pencil,3,1.289999962,68.37000275,Version 1
+01-06-2022,Central,Gill,Binder,6,8.989999771,719.2000122,Version 1
+18-06-2022,Central,Kivell,Desk,1,125,625,Version 1
+05-07-2022,East,Jones,Pen Set,56,4.989999771,309.3800049,Version 1
+22-07-2022,Central,Morgan,Pen Set,14,12.48999977,686.9500122,Version 1
+08-08-2022,Central,Kivell,Pen Set,18,23.95000076,1005.900024,Version 1
+25-08-2022,West,Sorvino,Desk,1,275,825,Version 1
+11-09-2022,Central,Gill,Pencil,0,1.289999962,9.029999733,Version 1
+28-09-2022,West,Sorvino,Pen,8,1.99000001,151.2400055,Version 1
+15-10-2022,West,Thompson,Binder,13,19.98999977,1139.430054,Version 1
+01-11-2022,Central,Andrews,Pencil,1,1.289999962,18.05999947,Version 1
+18-11-2022,Central,Jardine,Binder,6,4.989999771,54.88999939,Version 1
+05-12-2022,Central,Jardine,Binder,5,19.98999977,1879.060059,Version 2
+22-12-2022,Central,Andrews,Binder,6,4.989999771,139.7200012,Version 2
