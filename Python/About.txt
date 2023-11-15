@@ -1,0 +1,5 @@
+HandsOn, Assignments, CaseStudies of 
+Python Basics
+Numpy
+Pandas
+Visualization
